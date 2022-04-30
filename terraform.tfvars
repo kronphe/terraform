@@ -1,0 +1,5 @@
+region        = "us-east-1"
+ami           = "ami-0b0af3577fe5e3532"
+keypair       = "testkey"
+instance-type = "t2.micro"
+name          = "dev-server"
